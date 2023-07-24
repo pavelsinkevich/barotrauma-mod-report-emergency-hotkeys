@@ -1,5 +1,5 @@
 # Barotrauma mod [Report Emergency Hotkeys](https://steamcommunity.com/sharedfiles/filedetails/?id=3007255352)
-### Requires client side [lua for Barotrauma](https://steamcommunity.com/workshop/filedetails/?id=2559634234)
+### Requires client side [Lua for Barotrauma](https://steamcommunity.com/workshop/filedetails/?id=2559634234)
 Use hotkeys to report emergencies in your current room.
 * Report breach: Alt + 1
 * Report broken devices: Alt + 2
