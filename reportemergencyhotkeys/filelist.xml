@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Report Emergency Hotkeys" modversion="1.0.0" corepackage="False" steamworkshopid="3007255352" gameversion="1.0.21.0">
+  <Other file="%ModDir%/Lua/Autorun/init.lua" />
+  <Other file="%ModDir%/Lua/Scripts/Client/reportemergencyhotkeys.lua" />
+</contentpackage>
